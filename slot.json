@@ -1,0 +1,12 @@
+var slotConfig = {“
+    configSlotHours”: ”01 ", “
+    configSlotMinutes”: ”5 ", “
+    configSlotPreparation”: ”10 ", “
+    timeArr”: [{“
+            startTime”: ”08: 00 ", “endTime”:”13:00"
+        },
+        {“
+            startTime”: ”16: 00 ", “endTime”:”20:00"
+        }
+    ]
+}
